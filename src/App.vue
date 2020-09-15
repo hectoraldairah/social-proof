@@ -100,9 +100,9 @@ export default {
   }
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 1220px) {
   .layout {
-    max-width: 1440px;
+    max-width: 1220px;
     margin: 0 auto;
   }
 

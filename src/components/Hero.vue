@@ -57,7 +57,7 @@ export default {
   margin-top: 3rem;
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 1220px) {
   .container {
     flex-direction: row;
     justify-content: space-between;

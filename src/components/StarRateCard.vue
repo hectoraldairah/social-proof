@@ -46,7 +46,7 @@ export default {
   }
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 1220px) {
   .card {
     flex-direction: row;
     justify-content: space-around;
